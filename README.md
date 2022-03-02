@@ -1,5 +1,7 @@
 # vue3
 
+7 Vue3 Apps
+
 ## Project setup
 ```
 yarn install
