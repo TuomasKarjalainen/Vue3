@@ -1,6 +1,6 @@
-# vue3
+# Vue3
 
-### 7 Vue3 Apps and UI
+### 7 Vue3 Apps and UI:
 
 ![vue7apps](https://user-images.githubusercontent.com/91312571/184701240-d6535944-bd73-4ceb-aedd-044ec2792438.png)
 
