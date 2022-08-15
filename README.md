@@ -5,9 +5,9 @@
 ![vue7apps](https://user-images.githubusercontent.com/91312571/184701240-d6535944-bd73-4ceb-aedd-044ec2792438.png)
 
 ## Apps
-- DC Heroes 
+- DC Heroes – select/unselect hero, add/delete hero (interactively)
 - Calendar app
-- Markodown app
+- Markdown app
 - Slider 
 - Calculator
 - Modal
