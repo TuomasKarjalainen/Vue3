@@ -4,6 +4,16 @@
 
 ![vue7apps](https://user-images.githubusercontent.com/91312571/184701240-d6535944-bd73-4ceb-aedd-044ec2792438.png)
 
+## Apps
+- DC Heroes 
+- Calendar app
+- Markodown app
+- Slider 
+- Calculator
+- Modal
+- Chat
+- Login page
+
 ## Project setup
 ```
 yarn install
